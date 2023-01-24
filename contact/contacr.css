@@ -1,0 +1,20 @@
+a {
+    margin: 2px;
+}
+
+.btn1 {
+    border-radius: 22px;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+.login {
+    border-radius: 522px;
+    display: block;
+    width: 40%;
+    margin: 29px auto;
+    text-align: center;
+    margin-top: 15%;
+}
